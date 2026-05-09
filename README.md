@@ -1,16 +1,15 @@
 # Databricks Data Engineering Training
 
 **SQL · PySpark · Databricks · ETL · Data Quality**
-
 ---
 
 ## About
 
-This repository documents my hands-on Data Engineering learning journey through structured daily practice.
+This repository documents the practical work I completed during my Databricks Data Engineering training.
 
-It is organized week-wise and day-wise, covering SQL problem solving, structured query writing, data analysis, and practical exercises using relational datasets.
+The work is organized week-wise and day-wise. Each day contains SQL exercises, solutions, and short documentation describing the concepts practiced.
 
-The goal of this repository is to build practical problem-solving ability by applying concepts on real-world style datasets.
+The objective of this repository is to strengthen SQL fundamentals, understand relational data, and build practical problem-solving skills required for Databricks-based data engineering workflows.
 
 ---
 
@@ -23,7 +22,11 @@ databricks-training/
 │   │   ├── README.md
 │   │   └── answers.sql
 │   │
-│   └── Day-2/
+│   ├── Day-2/
+│   │   ├── README.md
+│   │   └── answers.sql
+│   │
+│   └── Day-3/
 │       ├── README.md
 │       └── answers.sql
 │
